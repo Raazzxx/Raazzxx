@@ -4,5 +4,5 @@
  - 👋 Hi there, I’m Raj
  - 👀 I’m interested in Data Analytics
  - 🌱 I’m currently getting my hands dirty with tools like MySQL , PowerBI , Excel and Python
- - 📫 How to reach me pandey.raj0196@gmail.com@gmail.com
+ - 📫 How to reach me - pandey.raj0196@gmail.com
 
